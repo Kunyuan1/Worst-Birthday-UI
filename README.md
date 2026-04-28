@@ -13,16 +13,6 @@ This project is inspired by the idea of “bad UI battles,” where developers c
 * Intentionally confusing and inefficient design
 * Built for demonstration and entertainment purposes
 
----
-
-## Tech Stack
-
-* HTML
-* CSS
-* JavaScript
-
----
-
 ## How to Run Locally
 
 1. Clone the repository:
